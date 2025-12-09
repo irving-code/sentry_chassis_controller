@@ -1,0 +1,6 @@
+devel_space: /home/robot/sentry_chassis_controller/devel
+install: false
+install_space: /home/robot/sentry_chassis_controller/install
+profile: default
+source_space: /home/robot/sentry_chassis_controller/src
+workspace: /home/robot/sentry_chassis_controller
